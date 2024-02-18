@@ -1,5 +1,5 @@
 **0x01. AirBnB clone - Web static**
-![](Home/Downloads/html-logo.png)     ![](Home/Downloads/css-logo.png)
+![](https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg)
 
 **Requirements**
 * Allowed editors: vi, vim, emacs
